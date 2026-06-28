@@ -39,7 +39,8 @@
 	var Bod=Doc.body;
 	var Trigger=NavYes&&!Opr?Par:Bod;
 
-	MenuTextCentered=MenuTextCentered==1||MenuTextCentered=='center'?'center':MenuTextCentered==0||MenuTextCentered!='right'?'left':'right';
+	MenuTextCentered=MenuTextCentered==1||MenuTextCentered=='center'?'center':MenuTextCentered==0||MenuTextCentered!='right'?'left':'right';
+
 	WbMstrAlrts=["Item not defined: ","Item needs height: ","Item needs width: "];
 
 	if(Trigger.onload)Dummy=Trigger.onload;
