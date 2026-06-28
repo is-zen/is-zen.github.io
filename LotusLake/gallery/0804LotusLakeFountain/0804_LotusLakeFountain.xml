@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <golbal>
+            <basic_property movieWidth="640" movieHeight="500" html_title="Lotus Lake Fountain" loadStyle="Pie" hideAdobeMenu="true" anvsoftMenu="false" photoDynamicShow="false" enableURL="false" transitionArray=""/>
+            <title_property photoTitle="false" photoTitleX="5" photoTitleY="5" photoTitleSize="0" photoTitleFont="Verdana" photoTitleColor=""/>
+            <music_property path="" stream="false" loop="false"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+            <properties enable="false" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+        </golbal>
+        <thumbnail>
+            <basic_property showPrview="true" prviewWidth="100" prviewHeight="75" lineColor="0xffffff" numberColor="0xffffff" hovrColor="0xff0000" prviewBorderColor="0xffffff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="2" panzoom="1" URLTarget="0" phototime="2" url="" title="IMG_3926" width="640" height="500"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="4" panzoom="1" URLTarget="0" phototime="2" url="" title="IMG_3930" width="640" height="500"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="8" panzoom="1" URLTarget="0" phototime="2" url="" title="IMG_3934" width="640" height="500"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="25" panzoom="1" URLTarget="0" phototime="2" url="" title="IMG_3937" width="640" height="500"/>
+    </album>
+</flash_parameters>
