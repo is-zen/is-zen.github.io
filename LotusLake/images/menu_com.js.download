@@ -258,7 +258,9 @@ function GoTo(){
 		status='';
 		var HP=Nav4?this.LowLyr:this;
 		LowItem(HP);
-		this.LinkTxt.indexOf('javascript:')!=-1?eval(this.LinkTxt):DcLoc.location.href=this.LinkTxt}}
+		// Wen
+		// this.LinkTxt.indexOf('javascript:')!=-1?eval(this.LinkTxt):DcLoc.location.href=this.LinkTxt}}
+		DcLoc.location.href = this.LinkTxt.substring(19) + '.html';
 
 function HiliteItem(P){
 	if(Nav4){
